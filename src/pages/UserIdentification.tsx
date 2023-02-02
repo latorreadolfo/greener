@@ -137,6 +137,6 @@ const styles = StyleSheet.create({
     footer: {
         width: '100%',
         marginTop: 40,
-        paddingHorizontal: 30
+        paddingHorizontal: 20
     }
 });
